@@ -1,4 +1,3 @@
-# Movie-ETL-Pipeline
 # 🎬 Movie ETL Pipeline
 
 ## 📌 Overview
