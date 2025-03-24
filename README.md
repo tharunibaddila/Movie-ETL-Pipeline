@@ -10,7 +10,8 @@ This project extracts movie data from **AWS S3**, loads it into **Snowflake**, a
 - **DAX Queries**: For advanced calculations
 
 ## 📊 Live Power BI Dashboard
-🔗 **[View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzA5N2Y0ODAtZmFlYy00OWYwLTlmMDgtM2ZkOGMyODFjZjU4IiwidCI6ImViZmE0ZWRhLTM3NjYtNGZjMS04ZTgyLTAyYTVkZWJjY2M5NiIsImMiOjN9)**  
 
-> *Click the link above to interact with the dashboard!*  
+🔗 View the Power BI
+Dashboard:(https://app.powerbi.com/view?r=eyJrIjoiYzA5N2Y0ODAtZmFlYy00OWYwLTlmMDgtM2ZkOGMyODFjZjU4IiwidCI6ImViZmE0ZWRhLTM3NjYtNGZjMS04ZTgyLTAyYTVkZWJjY2M5NiIsImMiOjN9)  
+
 
