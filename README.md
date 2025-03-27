@@ -2,8 +2,7 @@
 
 **Interactive Movie Dashboard | ETL Pipeline using AWS S3, Snowflake, and Power BI**
 
-Overview
-
+**Overview:**
 This project is an end-to-end ETL (Extract, Transform, Load) pipeline designed to automate movie metadata ingestion, normalization, and visualization using Amazon S3, Snowflake, and Power BI. The system enables users to interactively search for movies by genre, language, and platform availability while providing insights into runtime distributions and other key attributes.
 
 **Architecture & Technologies Used:**
