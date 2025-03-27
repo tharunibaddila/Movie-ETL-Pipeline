@@ -5,6 +5,8 @@ Overview
 This project is an end-to-end ETL (Extract, Transform, Load) pipeline designed to automate movie metadata ingestion, normalization, and visualization using Amazon S3, Snowflake, and Power BI. The system enables users to interactively search for movies by genre, language, and platform availability while providing insights into runtime distributions and other key attributes.
 
 **Architecture & Technologies Used**
+![Screenshot 2025-03-27 at 3 33 28 PM](https://github.com/user-attachments/assets/17b4ad50-b201-464e-9aef-8929a9a004f8)
+
 
 Data Storage & Ingestion:
 Movie metadata (e.g., title, genre, language, availability) is stored in Amazon S3 as raw JSON/CSV files.
